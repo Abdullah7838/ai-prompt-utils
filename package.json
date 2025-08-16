@@ -1,0 +1,9 @@
+{
+  "name": "ai-prompt-utils",
+  "version": "1.0.0",
+  "description": "Ready-made AI prompt helpers (summarize, translate, rephrase, explain) for OpenAI-compatible APIs.",
+  "main": "index.js",
+  "keywords": ["ai", "prompt", "utils", "openai", "deepseek", "openrouter"],
+  "author": "Muhammad Abdullah",
+  "license": "MIT"
+}
